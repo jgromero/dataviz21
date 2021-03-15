@@ -1,6 +1,6 @@
 # Seminario de visualización de datos con Tableau
 
-## Edición 2020-2021
+## Edición 2020-2021
 
 Este seminario proporciona una descripción general de las características de la herramienta Tableau para análisis visual de datos. 
 

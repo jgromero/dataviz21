@@ -40,5 +40,7 @@ Para acceder, debe utilizarse cuenta @go.ugr.es.
 ### Contacto
 
 **[Juan Gómez Romero](https://ccia.ugr.es/~jgomez)**
+
 Departamento de Ciencias de la Computación e Inteligencia Artificial
+
 Universidad de Granada
